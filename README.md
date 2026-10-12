@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/ak-ascii.png">
-  <img src="assets/ak-ascii.gif" alt="由 ASCII 字符组成的 AK-47，缓慢旋转一整圈" width="100%">
-</picture>
+<img src="assets/ak-ascii.gif" alt="由 ASCII 字符组成的 AK-47，缓慢旋转一整圈" width="100%">
 
 <h3 align="center">ZN / 下一局见。</h3>
 
